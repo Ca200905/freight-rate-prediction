@@ -1,0 +1,19 @@
+﻿# Large data files provided by Spotter AI (not committed to repo)
+train-test.csv
+validation.csv
+validation-predictions-template.csv
+
+# Scratch / temp scripts
+eda_check.py
+cap_fix.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env/
